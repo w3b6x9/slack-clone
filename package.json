@@ -9,6 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@supabase/realtime-js": "^1.7.2",
     "@supabase/supabase-js": "^1.35.3",
     "next": "latest",
     "react": "^18.0.0",
